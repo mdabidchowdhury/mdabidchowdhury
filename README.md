@@ -2,7 +2,7 @@
 
 Robotics & Mechatronics Engineering, University of Dhaka (2022–2026) | Bio-inspired robotics, CFD/FEA validation, Machine learning, Embedded systems
 
-[Portfolio](https://mdabidchowdhury-portfolio.vercel.app/) | [ORCID](https://orcid.org/0009-0007-3197-5168) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=hT2Xo8AAAAAJ) | [LinkedIn](https://www.linkedin.com/in/md-abid-chowdhury-485288259/) | [abid.chowdhury.ban@gmail.com](mailto:abid.chowdhury.ban@gmail.com)
+[Portfolio](https://mdabidchowdhury.github.io/) | [ORCID](https://orcid.org/0009-0007-3197-5168) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=hT2Xo8AAAAAJ) | [LinkedIn](https://www.linkedin.com/in/md-abid-chowdhury-485288259/) | [abid.chowdhury.ban@gmail.com](mailto:abid.chowdhury.ban@gmail.com)
 
 ## SUMMARY
 
